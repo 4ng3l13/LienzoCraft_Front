@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_color">#F7F6F2</color> <!-- El fondo crema claro -->
+    <color name="accent_lime">#D4FF55</color> <!-- El verde lima de los botones -->
+    <color name="card_dark">#242424</color> <!-- El fondo oscuro de la tarjeta principal -->
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#757575</color>
+    <color name="gray_light">#E0E0E0</color>
+</resources>

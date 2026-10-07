@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LienzoCraft" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.LienzoCraft" parent="Base.Theme.LienzoCraft" />
+    <style name="PastillaLima">
+        <item name="android:color">@color/accent_lime</item>
+    </style>
+</resources>
